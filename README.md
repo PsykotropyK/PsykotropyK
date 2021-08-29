@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PsykotropyK
-- 👀 I’m developing on my free time and 
+- 👀 I’m developing on my free time
 - 🌱 I’m currently learning C# and Python
 - 📫 How to reach me : that's a good question. Keep looking.
 
